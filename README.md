@@ -21,6 +21,7 @@ I'm a seasoned **Software Developer**, **Team Leader**, and **Engineering Manage
 
 - 🔗 [Stack Overflow](https://stackoverflow.com/users/1520793/sotona)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mescalito/)
+- 🔗 [Telegram](https://t.me/s0t0na)
 
 ---
 
