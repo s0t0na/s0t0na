@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Dmytro Iaskolko 👋
 
-<!--
-**s0t0na/s0t0na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a seasoned **Software Developer**, **Team Leader**, and **Engineering Manager** with over 15 years of experience designing, building, and scaling systems across a variety of domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💼 Currently working as an Engineering Manager and hands-on Software Developer.
+- 🧠 Passionate about robust, performant, and scalable systems.
+- 💬 I work primarily with **C**, **Go**, **Rust**, and **Python**.
+- 👥 Experienced in leading engineering teams and mentoring developers.
+
+### 🧰 Tech Stack
+
+- **Languages:** C, Go, Rust, Python, Bash, TypeScript
+- **Tools & Platforms:** Linux, Docker, Kubernetes, Git, CI/CD
+- **Paradigms:** Systems Programming, Distributed Systems, Microservices, Performance Optimization
+
+### 🌐 Connect with Me
+
+- 🔗 [Stack Overflow](https://stackoverflow.com/users/1520793/sotona)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mescalito/)
+
+---
+
+> "Code is design made executable."
+
+Thanks for visiting!
