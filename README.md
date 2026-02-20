@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a seasoned **Software Developer**, **Team Leader**, and **Engineering Manager** with over 15 years of experience designing, building, and scaling systems across a variety of domains.
+I'm a seasoned **Software Developer**, **Team Leader**, and **Engineering Manager** with over 20 years of experience designing, building, and scaling systems across a variety of domains.
 
 ### 👨‍💻 About Me
 
